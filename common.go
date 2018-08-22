@@ -5,8 +5,8 @@ import (
 	//"gopkg.in/mgo.v2/bson"
 )
 
-const TENNISOFF = "https://www.tennisoff.net"
-const DBNAME = "tennisoff"
+const TENNISOFF = "somesite"
+const DBNAME = "db"
 const DBPASS = "mongodb://localhost/"+DBNAME
 
 type User struct {

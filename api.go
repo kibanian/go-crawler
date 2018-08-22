@@ -13,7 +13,7 @@ import (
 	//"reflect"
 )
 
-const SERVER = "http://medical-map.shop/api/"
+const SERVER = "sample.jp"
 const USERDIR = "user"
 const OFFDIR = "off"
 const OFFVISITORDIR = "off_visitor"
