@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
-	"io/ioutil"
+	//"io/ioutil"
 	//mgo "gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	//"github.com/PuerkitoBio/goquery"
